@@ -76,4 +76,5 @@ const main = async () => {
     QRPortalWeb()
 }
 
-main() we
+main()
+

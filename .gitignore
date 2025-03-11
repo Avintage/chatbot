@@ -2,4 +2,5 @@ node_modules
 *.log
 bot.qr.png
 bot_sessions
+.DS_Store
 
